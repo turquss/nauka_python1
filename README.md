@@ -1,7 +1,7 @@
 # Nauka GIT-a
 - dodawanie plikow
 - aaaaaaaaa
-- Ccccc
+- Fffffffff
 
 xxxxxxx
 aaaaaaa
