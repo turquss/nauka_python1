@@ -1,4 +1,4 @@
-# Nauka GIT-a
+# Nauka 
 
 
 
